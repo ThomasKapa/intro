@@ -1,5 +1,36 @@
-h1 {
+h1 { /* tag */
     background-color: red;
+
+
+}
+
+#green-text {  /* id συσκεκριμένου tag */
+    background-color: green;
+}
+
+.magenda{  /* class, είναι μια ομάδα από ids */
+color: magenta;
+}
+
+#btn{
+background-color: navy;
+color: white;
+width: 130px;
+text-align: center;
+/* border: yellow dotted 2px; */
+padding: 10px;
+margin: 20px;
+border-radius: 10px;  /* κοβει τις γωνίες */
+
+
+
+}
+
+#Vader{
+
+    width: 50px;
+
+    /* em εναλακτική μονάδα μέτρησης (οχι % ή px)  ποσο χωρο πιανει στην οθόνη σου το κεφαλαίο γράμμα Μ */
 
 
 }
